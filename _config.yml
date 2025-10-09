@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Michelle Xie
 description              : Michelle Xie - Projects and CV 
-baseurl                  : "fa25-portfolio-msx3-blip" 
+baseurl                  : "/fa25-portfolio-msx3-blip/" 
 
 # Theme and Style
 theme: jekyll-theme-minimal
